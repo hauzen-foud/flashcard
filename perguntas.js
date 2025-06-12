@@ -27,17 +27,20 @@ Descola e mostra o jogador no pizzaplex e eventos em 2023, que se revelam import
 )
 
 criaCartao(
+    'JUJUTSO KAISEN'
     'quem é o personagem mais poderoso de jujutsu kaisen?',
     'Em Jujutsu Kaisen, o personagem mais poderoso é geralmente considerado Satoru Gojo. Ele é conhecido por sua imensa energia amaldiçoada, os Seis Olhos e a técnica do Ilimitado, que lhe concedem poderes praticamente invencíveis. Embora Sukuna também seja extremamente forte, com habilidades que desafiam os feiticeiros mais poderosos, Gojo é geralmente considerado o mais forte.'
 )
 
 criaCartao(
+    'games'
     'O que saber antes de jogar Ghost of Tsushima?',
     '1ª lição: deixe a ilha guiar você
 Use os animais como guias da natureza. Preste atenção em animais como pássaros amarelos ou raposas, pois eles podem levá-lo a monumentos ou atividades especiais. ...
 Explore o mapa para descobrir locais de interesse. ...
 Use o equipamento correto.'
 )criaCartao(
+    'memes'
     'como criar um brainrot',
     '1 Digite seu Texto. Insira o texto que você deseja transformar em um vídeo brainrot. ...
 2 Escolha o Estilo. Selecione o fundo do seu vídeo (Subway Surfers, Minecraft Parkour ou outros jogos populares) e escolha uma voz AI para narrar seu texto.
@@ -45,7 +48,7 @@ Use o equipamento correto.'
 )
 
 criaCartao(
-    'Lingua',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'famosos',
+    'quem são as pessoas mais famosas do brasil?',
+    'As pessoas mais famosas do Brasil incluem Neymar Jr., Vinicius Jr., Virginia Fonseca, Endrick, MC Daniel, Rodrygo Goes, Carlinhos Maia, Deolane Bezerra, Gabriel Barbosa (Gabigol) e Bruna Marquezine, segundo um levantamento do primeiro semestre de 2024 pela Folha de S.Paulo e Zeeng. '
 )
